@@ -1,4 +1,4 @@
-# Node.js Tutorial: Hello World HTTP Server
+# Node.js Tutorial: Main Branch Changes
 
 A minimal, dependency-free Node.js HTTP server written for beginners. It demonstrates one endpoint, `GET /hello`, and answers every other request with a `404` catch-all. The server is built on Node.js's built-in `node:http` module — no framework, no middleware and no dependencies — and the whole application is one readable file, because readability is a requirement of this project rather than a side effect of it.
 
